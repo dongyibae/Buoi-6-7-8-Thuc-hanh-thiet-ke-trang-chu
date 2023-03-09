@@ -263,6 +263,7 @@ body,button
 	color: #fff;
 	text-transform: uppercase;
 	padding: 5px 10px;
+	opacity: 0;
 }
 .pr-btn
 {
@@ -285,7 +286,7 @@ body,button
 	opacity: 1;
 	transition: 2s;
 }
-/*.pr-btn:hover button
+.pr-btn:hover button
 {
 	opacity: 1;
 	transition: 2s;
@@ -293,7 +294,7 @@ body,button
 .pr-button:hover  button
 {
 	background-color: #000;transition: 1s;
-}*/
+}
 .cat-item img /*tai sao hien thi height 475*/
 {
 	width: 100%;
